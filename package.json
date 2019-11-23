@@ -1,0 +1,22 @@
+{
+  "name": "dextraflix-node",
+  "version": "0.0.1",
+  "description": "Versão em Node do Dextraflix para estudo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimesmo/dextraflix-node.git"
+  },
+  "author": "Luiz Guilherme Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimesmo/dextraflix-node/issues"
+  },
+  "homepage": "https://github.com/guimesmo/dextraflix-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
